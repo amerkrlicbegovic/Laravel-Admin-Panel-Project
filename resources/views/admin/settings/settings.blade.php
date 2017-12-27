@@ -23,7 +23,7 @@
                     <lable for="contact_email">Contact email</lable>
                     <input type="email" name="contact_email" value="{{$settings->contact_email}}" class="form-control">
                 </div>
-                <div class="form-group">site_email
+                <div class="form-group">
                     <lable for="contact_number">Contact phone</lable>
                     <input type="text" name="contact_number" value="{{$settings->contact_number}}" class="form-control">
                 </div>
